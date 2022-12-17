@@ -8,3 +8,5 @@ Check out Test Screenshots folder, it contains screenshots of the GUI and variou
 
 Check out Output folder, it contains converted downloaded images in PNG,JPG and JPEG format.
 
+target/classes folder contains Fxml,Controller,Main & Interface classes used for this Project
+
